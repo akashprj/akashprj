@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash Kumar Prajapati
-- 👀 I’m interested in Software Development, Web Development, C/C++, C#, Java, Python, SQL
+- 👀 I’m interested in Software Developer, Web Developer, C/C++, C#, Java, Python, SQL
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...Team Project
 - 📫 How to reach me ...https://akashprj.netlify.app/
