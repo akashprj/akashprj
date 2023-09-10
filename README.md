@@ -1,21 +1,7 @@
-### Hi there 👋
-
-<!--
-**arpit5220/arpit5220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Arpit Katiyar </h1>
+         width="45" /> I'm Akash Kumar Prajapati </h1>
 <h3 align="center"> Problem Solver | Full Stack Web Developer | Open Source Enthusiast</h3>
 
 <br>
@@ -26,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Java, Data Structures, Algorithms, Web Development.**
 - 💬 I am interested in  **Java, Spring, SpringBoot, Hibernate, RestAPI, Microservices, React.**
 - 💬 You Can Collaborate with me to work on a Java project.
-- 📫 How to reach me **arpitkatiyar09197@gmail.com**
+- 📫 How to reach me **sssky09197@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit5220&label=Profile%20views&color=0e75b6&style=flat" alt="arpit5220" /> </p>
 
