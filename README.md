@@ -9,14 +9,13 @@
 <h3 align="center"> Problem Solver | Full Stack Web Developer | Open Source Enthusiast</h3>
 <p><em> Software Engineer @HCLTech <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
 <br>
 
 <!-- - 👋 Hi, I’m Akash Kumar Prajapati -->
 - 🌱 I’m currently working on DSA and Problem Solving...
 - 👀 I'am Very much Interested in open source.
-- 💬 Ask me about **Java, Data Structures, Algorithms, Web Development.**
-- 💬 I am interested in  **Java, Spring, SpringBoot, Hibernate, RestAPI, Microservices, React.**
+- 💬 Ask me about **Data Structures, Algorithms, Software Development, Web Development.**
+- 💬 I am interested in  **Java, Spring, SpringBoot, Python, React, MySQL.**
 - 💬 You Can Collaborate with me to work on a Java project.
 - 📫 How to reach me: [Gmail](mailto:akashkrprj@gmail.com)
 
@@ -27,9 +26,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akashprj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akash" height="30" width="40" /></a>
-<a href="https://www.instagram.com/akashkrprj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpit.katiyar09197" height="30" width="40" /></a>
-<a href="https://akashprj.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2020b0101100" height="30" width="40" /></a>
-<a href="https://leetcode.com/akashkrprj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kingkatiyar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/akashkrprj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Akash" height="30" width="40" /></a>
+<a href="https://akashprj.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Akash" height="30" width="40" /></a>
+<a href="https://leetcode.com/akashkrprj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Akash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
