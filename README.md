@@ -35,11 +35,13 @@
 </p>
 
 ## 📟 GitHub Stats
+<div>
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akashprj&show_icons=true&theme=github" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashprj&theme=github" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashprj&show_icons=true&locale=en&layout=compact" alt="akashprj" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashprj&show_icons=true&locale=en&layout=compact" alt="akashprj" />
 </p>
+</div>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/akashprj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p
