@@ -39,8 +39,4 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akashprj&show_icons=true&theme=github" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashprj&theme=github" />
 </p>
-
-
-<h3 align="left">Support:</h3>
-<br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashprj&show_icons=true&locale=en&layout=compact" alt="akashprj" />
