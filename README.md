@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Akash Kumar Prajapati </h1>
 <h3 align="center"> Problem Solver | Full Stack Web Developer | Open Source Enthusiast</h3>
+<p><em> Software Engineer @HCLTech <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 <br>
 
@@ -12,7 +18,7 @@
 - 💬 Ask me about **Java, Data Structures, Algorithms, Web Development.**
 - 💬 I am interested in  **Java, Spring, SpringBoot, Hibernate, RestAPI, Microservices, React.**
 - 💬 You Can Collaborate with me to work on a Java project.
-- 📫 How to reach me **akashkrprj@gmail.com**
+- 📫 How to reach me: [Gmail](mailto:akashkrprj@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashprj&style=flat-square" alt="akashprj" /> </p>
 
@@ -39,7 +45,7 @@
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akashprj&show_icons=true&theme=github" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashprj&theme=github" />
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashprj&show_icons=true&locale=en&layout=compact" alt="akashprj" />
+        <img align="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashprj&show_icons=true&locale=en&layout=compact" alt="akashprj" />
 </p>
 </div>
 
