@@ -12,7 +12,7 @@
 - 💬 Ask me about **Java, Data Structures, Algorithms, Web Development.**
 - 💬 I am interested in  **Java, Spring, SpringBoot, Hibernate, RestAPI, Microservices, React.**
 - 💬 You Can Collaborate with me to work on a Java project.
-- 📫 How to reach me **sky1102200@gmail.com**
+- 📫 How to reach me **akashkrprj@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit5220&label=Profile%20views&color=0e75b6&style=flat" alt="akashprj" /> </p>
 
